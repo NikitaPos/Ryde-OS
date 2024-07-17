@@ -1,2 +1,3 @@
 # Ryde-OS
-## An OS made by NikitaPos and Simon mannen
+## An OS made by Simon
+# MIT liscense
