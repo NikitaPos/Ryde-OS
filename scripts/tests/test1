@@ -1,0 +1,10 @@
+r.e
+syst.clrcon
+syst.conlog.(4 + 5)
+var.set."test".con/1
+term.run."cd test"
+term.run."path /root/test"
+term.run.("ec " ++ v/test)
+syst.conlog.("File /root/test contains " ++ file!/root/test ++ " as its content@1")
+txt.type.con/1.5.-50.50
+txt.type.con/2.5.-50.20
