@@ -3,6 +3,6 @@ sep.clr
 r.clr
 txt.type.v/appname.7.-230.160
 txt.type."x".11.220.160
-sep.add.button."["x-close", ["var§set§appname§idle", "r§e", "sep§kill§sep"], 215, 180, 235, 160]"
+sep.add.button."["x-close", ["var§set§appname§idle", "r§clr", "sep§kill§sep"], 215, 180, 235, 160]"
 r.w.3
 r.line.-250.152.250.152
